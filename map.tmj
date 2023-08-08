@@ -608,7 +608,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Terrasse"
+                 "value":"MMVTerrasse"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -695,7 +695,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Petanque"
+                 "value":"MMVPetanque"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
