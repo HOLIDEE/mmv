@@ -916,7 +916,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/www.youtube.com\/embed\/nt-0cP7LnE8"
                         }],
                  "type":"tilelayer",
                  "visible":true,
